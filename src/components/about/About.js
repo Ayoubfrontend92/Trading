@@ -24,7 +24,7 @@ const About = () => {
                         <AboutCard icon={<VscServerProcess className='icon' />} heading='Secure off-chain computation' text='Use a decentralized network of DeFi Keeper nodes to automate contracts, mitigating risk of manual interventions and centralized servers.' />
                     </div>
                 </div>
-                <a href="/" className="btn">Use Defi</a>
+                <a href="/" className="btn">Use Adubi</a>
             </div>
         </div>
     )
